@@ -25,9 +25,26 @@ layout: default
     like-link       = '{{ site.atom-baseurl }}{{ page.url }}'
     ></span>
   <script type="text/javascript">
-    var l = document.createElement('script');
-    l.type = 'text/javascript'; l.async = true; l.src = 'http://www.like-btn.com/javascript/widget.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(l);
+    var duoshuoQuery = {short_name:"theodoer"};
+    var leave_comment = (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.src = 'http://static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0] 
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+      $("#leave_comment_link").css("display", "none");
+      $("#collapse_comment_link").css("display", "");
+    });
+	var collapse_comment = (function() {
+      // document.getElementById("disqus_thread").innerHTML = '';
+      $(".ds-thread").slideUp(400, function() {
+          $(".ds-thread").empty();
+          $("#leave_comment_link").css("display", "");
+          $("#collapse_comment_link").css("display", "none");
+          $(".ds-thread").css("display", "");
+          });
+    });
   </script>
   {% endif %}
   </section>

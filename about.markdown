@@ -3,7 +3,7 @@ title: about
 layout: page
 ---
 
-老刘，帝都偏远地区低调青年，五官还算端正，收入尚能温饱；老婆一个，孩儿一个。
+老刘，帝都偏远地区低调青年，五官还算端正，收入尚能温饱。
 
 善于思考，懒于记录；勇于幻想，疏于行动。
 
@@ -11,9 +11,9 @@ layout: page
 
 即便如此，依旧热爱生活，对生活充满期待！
 
-联系我
+>###### 联系我
 
->[微博](http://weibo.com/sjcnh)       [Twitter](https://twitter.com/TheodoerLiu)
+>>[微博](http://weibo.com/sjcnh)       [Twitter](https://twitter.com/TheodoerLiu)
 
 >blog模板取自 [github](https://github.com/waynezhang)，在此感谢！
 
