@@ -3,20 +3,19 @@ title: about
 layout: page
 ---
 
-a
+老刘，帝都偏远地区低调青年，五官还算端正，收入尚能温饱；老婆一个，孩儿一个。
 
-> Minimalist | Appleist | Unixer | Coder
+善于思考，懒于记录；勇于幻想，疏于行动。
 
-who involved in 
+爱好众多，无一而精。热爱电影，却总存着几十部未看的片子；热爱读书，却总放着几十本未看的书；热爱滑雪，却总未能突破自己的极限；热爱摄影，却越来越疏远单反；热爱旅行，却总是有不出发或继续耽搁着的理由……
 
-> [github](https://github.com/waynezhang)
+即便如此，依旧热爱生活，对生活充满期待！
 
-mail 
+联系我
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+>[微博](http://weibo.com/sjcnh)       [Twitter](https://twitter.com/TheodoerLiu)
 
-or follow 
+>blog模板取自 [github](https://github.com/waynezhang)，在此感谢！
 
-> [@o_lll](https://twitter.com/#!/o_lll)
 
-to reach me
+
