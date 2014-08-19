@@ -2,6 +2,7 @@
 title: 海の日には山を登りましょう
 layout: post
 guid: urn:uuid:866af2a0-3fc7-4ced-839d-1839115b7176
+comments: true
 tags:
   - photography
   - instagram
